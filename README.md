@@ -28,3 +28,4 @@ The app helps visualize insights from uploaded datasets, enabling quick explorat
 ├── runtime.txt # Python runtime version
 ├── animation.json # Optional Lottie animation
 └── README.md # Project documentation
+
